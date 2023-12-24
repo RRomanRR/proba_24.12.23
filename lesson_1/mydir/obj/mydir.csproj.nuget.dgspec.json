@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GB\\GIT\\24.12.23_CSharp\\lesson_1\\mydir\\mydir.csproj": {}
+  },
+  "projects": {
+    "D:\\GB\\GIT\\24.12.23_CSharp\\lesson_1\\mydir\\mydir.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GB\\GIT\\24.12.23_CSharp\\lesson_1\\mydir\\mydir.csproj",
+        "projectName": "mydir",
+        "projectPath": "D:\\GB\\GIT\\24.12.23_CSharp\\lesson_1\\mydir\\mydir.csproj",
+        "packagesPath": "C:\\Users\\rvpli\\.nuget\\packages\\",
+        "outputPath": "D:\\GB\\GIT\\24.12.23_CSharp\\lesson_1\\mydir\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rvpli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
